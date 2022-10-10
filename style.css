@@ -1,1 +1,29 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+.capa {
+    width: 100%;
+}
+.beneficios {
+    text-align: left;
+    background-color: beige;
 
+}
+.foto-beneficios {
+    width: 40%;
+    margin-left: 100px;
+}
+h2{
+    padding: 20px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 130px;
+}
+li {
+    font-size: 20px;
+    padding: 20px;
+    
+}
