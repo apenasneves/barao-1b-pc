@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
     text-align: center;
     background-color: beige;
 }
@@ -10,7 +11,7 @@ body{
 }
 .beneficios {
     text-align: left;
-    background-color: beige;
+    background-color: rgb(255, 251, 218);
 
 }
 .foto-beneficios {
